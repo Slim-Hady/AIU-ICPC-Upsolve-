@@ -1,5 +1,7 @@
 # Problem: Creating Strings 
 
+this is hard problem if you don't know recursion and backtracking so if you didn't study this topic skip the question for now
+
 This problem asks us to take a given string and find every possible unique way to rearrange its characters (**permutations**). The results must be sorted alphabetically, and we need to count how many unique strings we found.
 
 ---
